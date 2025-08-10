@@ -30,7 +30,7 @@ search, allowing users to match a new cave photo against a local dataset.
 - Image preprocessing and feature extraction with DINOv2
 - Embedding storage and retrieval with FAISS
 - User interface for image input and result display
-- Data augmentation and classifier training (optional)
+- classifier training (Linear Head)
 
 **Technologies:**
 - Python (PyTorch, FAISS)
