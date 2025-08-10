@@ -33,7 +33,7 @@ search, allowing users to match a new cave photo against a local dataset.
 - Data augmentation and classifier training (optional)
 
 **Technologies:**
-- Python (PyTorch, FAISS, Kivy)
+- Python (PyTorch, FAISS)
 - DINOv2 (Meta AI)
 - Android Studio (mobile version)
 - Kotlin
@@ -47,7 +47,6 @@ search, allowing users to match a new cave photo against a local dataset.
 - GPU with CUDA support (recommended)
 - [PyTorch](https://pytorch.org/)
 - [FAISS](https://github.com/facebookresearch/faiss)
-- [Kivy](https://kivy.org/)
 
 ### 🏗️ Installing
 Clone the repository:
