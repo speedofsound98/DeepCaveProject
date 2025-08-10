@@ -35,7 +35,8 @@ search, allowing users to match a new cave photo against a local dataset.
 **Technologies:**
 - Python (PyTorch, FAISS, Kivy)
 - DINOv2 (Meta AI)
-- Flutter (planned mobile version)
+- Android Studio (mobile version)
+- Kotlin
 - JSON for metadata storage
 
 ## ⚡ Getting Started
