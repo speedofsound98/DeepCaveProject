@@ -1,0 +1,7 @@
+torch
+torchvision
+transformers
+Pillow
+tqdm
+requests
+urllib3
